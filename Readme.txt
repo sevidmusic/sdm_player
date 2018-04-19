@@ -1,3 +1,1 @@
-The sdm_player is currently still under development, in fact it is being completly
-re-designed. Please pardon it's current clunkyness, it will soon be leaner and 
-speedier and sooooo much prettier! : )
+Note: I no longer maintain this project, nor have I for many years, it was one of the first projects I developed when I started coding.
